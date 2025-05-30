@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 <img src="gambar/masuk.jpg" width="300"> <img src="gambar/beranda.jpg" width="300">
 
-<img src="gambar/detail.jpg" width="300">
-<img src="gambar/keranjang.jpg" width="300">
+<img src="gambar/detail.jpg" width="300"> <img src="gambar/keranjang.jpg" width="300">
+

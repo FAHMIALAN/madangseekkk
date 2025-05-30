@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="gambar/masuk.png">
-<img src="gambar/beranda.png">
-<img src="gambar/detail.png">
-<img src="gambar/keranjang.png">
+<img src="gambar/masuk.jpg">
+<img src="gambar/beranda.jpg">
+<img src="gambar/detail.jpg">
+<img src="gambar/keranjang.jpg">
